@@ -1,0 +1,6 @@
+{
+  "name": "M.R GAME ZONE ADMIN",
+  "description": "Premium black and gold admin management system for M.R Game Zone, managing products, orders, customers, and gaming analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
